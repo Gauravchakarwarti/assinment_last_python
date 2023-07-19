@@ -52,7 +52,7 @@
 # }
 
 # import json
-# with open('C:/Users/userMusic/indian_states_capitals.json', 'w') as file:
+# with open('C:/Users/user/Music/indian_states_capitals.json', 'w') as file:
 #     json.dump(indian_states_capitals, file)
 
 
